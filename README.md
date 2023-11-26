@@ -12,6 +12,7 @@ alias do='--dry-run=client -o yaml'
 2. Enable kubectl autocompletion
 ```
 Might be there by default, check cncf video
+https://www.youtube.com/watch?v=9UqkWcdy140
 ```
 3. Use the shortnames for resources
 ```
